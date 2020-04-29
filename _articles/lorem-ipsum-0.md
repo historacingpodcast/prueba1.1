@@ -1,9 +1,9 @@
 ---
 id: 0
-title: "Lorem ipsum 0"
-subtitle: "Sed sit amet arcu a diam tincidunt porta"
-date: "2019.12.08"
-tags: "tag1, tag2"
+title: "Prueba de blog"
+subtitle: "me importa una mierda"
+date: "2020.04"
+tags: "prueba, movida"
 ---
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed sit amet arcu a diam tincidunt porta. Fusce ut elit euismod massa convallis volutpat vitae et magna.
